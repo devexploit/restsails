@@ -60,7 +60,7 @@ module.exports.datastores = {
     adapter: 'sails-postgresql',
     host: 'localhost',
     user: 'postgres',
-    password: 'yapayzeka',
+    password: '',
     database: 'sails',
     retryWrites: true // THIS HERE GENERATES AN ERROR IN SAILS
 
