@@ -1,3 +1,5 @@
+Express konusunda kaynak bolluğu varken sails konusunda kaynak darlığı çekilmektedir burada postgres ve sails kullanımı bulunmaktadır temel auth işlemi, çoka çok ilişki ve tüm CRUD işlemleri yapılmıştır. Burada bulunan örneğe bakılarak güzel bir algoritma ile her türlü proje ortaya çıkarılabilir. Sailsin stream işlemleri için de modülleri bulunmaktadır.
+
 # sails
 
 a [Sails v1](https://sailsjs.com) application
