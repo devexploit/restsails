@@ -1,4 +1,4 @@
-Express konusunda kaynak bolluğu varken sails konusunda kaynak darlığı çekilmektedir burada postgres ve sails kullanımı bulunmaktadır temel auth işlemi, çoka çok ilişki ve tüm CRUD işlemleri yapılmıştır. Burada bulunan örneğe bakılarak güzel bir algoritma ile her türlü proje ortaya çıkarılabilir. Sailsin stream işlemleri için de modülleri bulunmaktadır.
+Express konusunda kaynak bolluğu varken sails konusunda kaynak darlığı çekilmektedir. Burada ORM ve sails kullanımı bulunmaktadır. Temel auth işlemi, çoka çok ilişki ve tüm CRUD işlemleri yapılmıştır. Burada bulunan örneğe bakılarak güzel bir algoritma ile her türlü proje ortaya çıkarılabilir. Sailsin stream işlemleri için de modülleri bulunmaktadır. Veri tabanı teknolojisi olarak PostgreSQL kullanılmıştır.
 
 # sails
 
