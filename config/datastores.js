@@ -55,14 +55,14 @@ module.exports.datastores = {
     // url: 'mongodb://localhost:27017/sails'
 
     // adapter: 'sails-postgresql',
-    // url: 'postgresql://postgres:yapayzeka@localhost:55698/sails',
+    // url: 'postgresql://postgres:<password>@localhost:55698/sails',
 
     adapter: 'sails-postgresql',
     host: 'localhost',
     user: 'postgres',
     password: '',
     database: 'sails',
-    retryWrites: true // THIS HERE GENERATES AN ERROR IN SAILS
+    retryWrites: true
 
 
   },
